@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3468668f-4ad8-4279-9389-338dfa781606" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/generic/target/" />
+    <ignored path="$PROJECT_DIR$/amazon_module/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon_module/src/test/resources/amazontestrunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon_module/src/test/java/amazontests/AmazonTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="150" column="36" selection-start-line="150" selection-start-column="36" selection-end-line="150" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/pom.xml" />
+        <option value="$PROJECT_DIR$/amazon_module/src/test/resources/amazontestrunner.xml" />
+        <option value="$PROJECT_DIR$/amazon_module/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/amazon_module/src/test/java/amazontests/AmazonTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="23" />
+    <option name="width" value="1080" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="amazontests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon_module" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework1" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552435165772" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml">
+    <configuration name="AmazonTests.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazontests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amazontests" />
+      <option name="MAIN_CLASS_NAME" value="amazontests.AmazonTests" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTests.signInCheck" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazontests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amazontests" />
+      <option name="MAIN_CLASS_NAME" value="amazontests.AmazonTests" />
+      <option name="METHOD_NAME" value="signInCheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonTests.testAllDropDown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="amazontests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="amazontests" />
+      <option name="MAIN_CLASS_NAME" value="amazontests.AmazonTests" />
+      <option name="METHOD_NAME" value="testAllDropDown" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="amazon_module" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/amazon_module/src/test/resources/amazontestrunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" />
+        <item itemvalue="TestNG.AmazonTests.testAllDropDown" />
+        <item itemvalue="TestNG.AmazonTests.signInCheck" />
+        <item itemvalue="TestNG.AmazonTests.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3468668f-4ad8-4279-9389-338dfa781606" name="Default Changelist" comment="" />
+      <created>1552339720032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552339720032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 43m 06s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 43m 20s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 47m 21s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 48m 55s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 52m 56s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 53m 59s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 56m 04s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 56m 44s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 57m 40s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_varija_Documents_Selenium_framework1_amazon_module_src_test_resources_amazontestrunner_xml - 2019.03.12 at 16h 58m 17s.xml">
+      <configuration name="/Users/varija/Documents/Selenium/framework1/amazon_module/src/test/resources/amazontestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="23" width="1080" height="688" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26396918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965096" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32984293" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java</url>
+          <line>157</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/3-NavigatingBetweenPages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_module/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#2290#2291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+          <folding>
+            <element signature="e#10098#10099#0" expanded="true" />
+            <element signature="e#10134#10135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/AbstractMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="567" selection-start-line="567" selection-end-line="567" />
+          <folding>
+            <element signature="e#20408#20409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/ImmutableEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/CollectPreconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/Hashing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/ImmutableMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/RegularImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#3393#3394#0" expanded="true" />
+            <element signature="e#3449#3450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="500" selection-start-line="500" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="334" selection-start-line="334" selection-end-line="334" />
+          <folding>
+            <element signature="e#12702#12703#0" expanded="true" />
+            <element signature="e#12745#12746#0" expanded="true" />
+            <element signature="e#14824#14825#0" expanded="true" />
+            <element signature="e#14876#14877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_module/src/test/resources/amazontestrunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="150" column="36" selection-start-line="150" selection-start-column="36" selection-end-line="150" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon_module/src/test/java/amazontests/AmazonTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
